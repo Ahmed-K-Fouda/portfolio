@@ -1,0 +1,24 @@
+footer.flex {
+  justify-content: center;
+  padding-bottom: 1.9rem;
+}
+
+
+
+footer.flex p {
+  color: rgb(113 113 122);
+}
+
+
+
+
+@media (max-width: 800px) {
+
+  footer.flex {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+
+
+}
