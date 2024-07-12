@@ -3,60 +3,85 @@ export const myProjects = [
     projectTitle: "HTML & CSS project",
     category: ["html", "css"],
     prejectDescription:
-      "Responsive furniture store with features to display product images, detailed product information, and a simple shopping cart. Built using HTML, CSS, and JavaScript.",
+      "A responsive furniture store displaying products with detailed information and a shopping cart. Built using HTML, CSS, and JavaScript.",
     imgPath: "./images/Novas.PNG",
     link: "https://github.com/Ahmed-K-Fouda/Novas_Furniture",
+    netlify: "https://novas-furniture.netlify.app",
   },
   {
     projectTitle: "Bootstrap project",
     category: ["bootstrap"],
     prejectDescription:
-      "A website built using the latest Bootstrap 5 framework, showcasing various Bootstrap components with engaging animations using the AOS library.",
+      "A website built with Bootstrap 5 showcasing components and animations using AOS library.",
     imgPath: "./images/bizland.PNG",
     link: "https://github.com/Ahmed-K-Fouda/BizLand-bootstrap5",
+    netlify: "https://bizland-website.netlify.app",
   },
   {
     projectTitle: "HTML & CSS project",
     prejectDescription:
-      "My first project after learning HTML and CSS to apply my knowledge. The code is not clean, but it enhanced my understanding.",
+      "First project after learning HTML and CSS. Code is not clean but it enhanced my understanding.",
     category: ["html", "css"],
     imgPath: "./images/cars.PNG",
     link: "https://github.com/Ahmed-K-Fouda/car_agency",
+    netlify: "https://cars-agency.netlify.app",
+  },
+  {
+    projectTitle: "HTML & CSS project",
+    prejectDescription:
+      "Coffee shop website designed with HTML and CSS to display different types of drinks.",
+    category: ["html", "css"],
+    imgPath: "./images/coffe.PNG",
+    link: "https://github.com/Ahmed-K-Fouda/coffe-shop",
+    netlify: "https://display-coffe-shop.netlify.app/",
   },
   {
     projectTitle: "JavaScript project",
     prejectDescription:
-      "A dynamic recipe display application that fetches data from an external API. Built using the OOP paradigm and organized using the MVC design pattern.",
+      "A dynamic recipe display application using an external API. Built with OOP and organized using MVC design pattern.",
     category: ["js"],
     imgPath: "./images/forkify.PNG",
     link: "https://github.com/Ahmed-K-Fouda/Forkify-App",
+    netlify: "https://forkify-findrecipe.netlify.app/",
   },
   {
     projectTitle: "JavaScript project",
     prejectDescription:
-      "Bankist App: A simple banking application that allows users to manage their accounts, including deposits, withdrawals, transfers, and loans. Supports multiple currencies and locales.",
+      "TVFlix: A Netflix-inspired website replicating its user interface and functionality.",
+    category: ["js"],
+    imgPath: "./images/movie.png",
+    link: "https://github.com/Ahmed-K-Fouda/movie",
+    netlify: "https://movieshow-flex.netlify.app",
+  },
+  {
+    projectTitle: "JavaScript project",
+    prejectDescription:
+      "Bankist App: A banking application for account management, including deposits, withdrawals, transfers, and loans. Supports multiple currencies and locales.",
     category: ["js"],
     imgPath: "./images/simualteBank.PNG",
     link: "https://github.com/Ahmed-K-Fouda/simulate-bank-system",
+    netlify: "https://simulate-banksystem.netlify.app/",
   },
   {
     projectTitle: "JavaScript project",
-    prejectDescription: "Bankist | When Banking meets Minimalist",
+    prejectDescription: "Bankist: When Banking meets Minimalism.",
     category: ["js"],
     imgPath: "./images/bankist.PNG",
     link: "https://github.com/Ahmed-K-Fouda/Bank-Website",
+    netlify: "https://bankist-view.netlify.app",
   },
   {
     projectTitle: "JavaScript project",
     prejectDescription:
-      "Welcome to my E-Commerce Website project! This project is designed - to showcase a variety of products while implementing essential e-commerce functionalities. Users can browse products, add them to their cart, utilize local storage for persistent cart data",
+      "E-Commerce Website: Showcases products with essential functionalities. Users can browse products, add to cart, and use local storage for persistent cart data.",
     category: ["js"],
     imgPath: "./images/topico.PNG",
     link: "https://github.com/Ahmed-K-Fouda/e-commerce",
+    netlify: "https://electronic-ecommerce.netlify.app",
   },
   {
-    projectTitle: "react",
-    prejectDescription: "deploying soon",
+    projectTitle: "React project",
+    prejectDescription: "Deploying soon.",
     category: ["react"],
     // imgPath: "./images/topico.PNG",
     // link: "https://github.com/Ahmed-K-Fouda/e-commerce",
@@ -64,25 +89,28 @@ export const myProjects = [
   {
     projectTitle: "JavaScript project",
     prejectDescription:
-      "Mapty is a web application that uses the Leaflet library to track workouts based on geographical locations. Users can add running or cycling workouts and display distance and duration on the UI. It also stores workout data using the browser.",
+      "Mapty: Tracks workouts based on geographical locations using Leaflet library. Users can add running or cycling workouts and display distance and duration. Stores data in the browser.",
     category: ["js"],
     imgPath: "./images/Mapty.PNG",
     link: "https://github.com/Ahmed-K-Fouda/Mapty",
+    netlify: "https://mapty-a-fouda.netlify.app",
   },
   {
     projectTitle: "HTML & CSS project",
     category: ["html", "css"],
     prejectDescription:
-      "Responsive Static Product Display: A simple and responsive HTML page for displaying product information.",
+      "Responsive static product display page built with HTML and CSS.",
     imgPath: "./images/redstore.PNG",
     link: "https://github.com/Ahmed-K-Fouda/simple-product-display",
+    netlify: "https://display-product-page.netlify.app",
   },
   {
     projectTitle: "HTML & CSS project",
     category: ["html", "css"],
     prejectDescription:
-      "his repository contains a simple HTML and CSS page providing information about University. The page includes details such as the university's history, campus facilities, and contact information,",
+      "A simple HTML and CSS page providing information about a university, including history, campus facilities, and contact information.",
     imgPath: "./images/univ.PNG",
     link: "https://github.com/Ahmed-K-Fouda/university-info-page",
+    netlify: "https://university-info-page.netlify.app",
   },
 ];

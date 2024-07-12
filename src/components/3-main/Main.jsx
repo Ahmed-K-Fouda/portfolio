@@ -69,7 +69,9 @@ const Main = () => {
                 key={item.imgPath}
                 className="card"
               >
-                <img width={266} src={item.imgPath} alt="" />
+                <a href={item.netlify}>
+                  <img width={266} src={item.imgPath} alt="" />
+                </a>
 
                 <div style={{ width: "266px" }} className="box">
                   <h1 className="title">{item.projectTitle}</h1>
@@ -77,14 +79,15 @@ const Main = () => {
 
                   <div className="flex icons">
                     <div style={{ gap: "11px" }} className="flex">
-                      <div className="icon-link"></div>
+                      {/* <div className="icon-link"></div> */}
                       <div className="i">
-                        <a href={item.link}>github</a>
+                        <a href={item.link} className="gitLink">
+                          github
+                        </a>
                       </div>
                     </div>
 
                     <a className="link flex">
-                      more
                       <span
                         style={{ alignSelf: "end" }}
                         className="icon-arrow-right"

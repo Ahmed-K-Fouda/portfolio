@@ -86,6 +86,10 @@ main section.right-section.flex {
   object-fit: cover;
 }
 
+.gitLink {
+  color: var(--blue);
+}
+
 .card .box {
   padding: 1rem 0.4rem;
 }

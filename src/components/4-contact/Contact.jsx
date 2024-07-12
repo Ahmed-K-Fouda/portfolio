@@ -17,7 +17,7 @@ const Contact = () => {
         Contact us for more information and Get notified when I publish
         something new.
       </p>
-
+      <p className="sub-title">My phone: +20 01021 780 939</p>
       <div style={{ justifyContent: "space-between" }} className="flex">
         <form onSubmit={handleSubmit} className="">
           <div className="flex">
