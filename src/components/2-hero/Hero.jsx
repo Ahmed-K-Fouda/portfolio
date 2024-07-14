@@ -22,9 +22,9 @@ const Hero = () => {
         setDisplayText(text.substring(0, index));
         index--;
 
-        if (index < 0) {
+        if (index < 1) {
           isDeleting = false;
-          index = 0;
+          index = 1;
         } else {
           isDeleting = true;
         }
@@ -33,7 +33,7 @@ const Hero = () => {
       if (index === text.length) {
         isDeleting = true;
       }
-    }, 100); // Adjust the typing/deleting speed
+    }, 100);
 
     return () => {
       clearInterval(interval);
