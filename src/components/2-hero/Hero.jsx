@@ -70,18 +70,18 @@ const Hero = () => {
           Proven track record of delivering high-quality projects both
           independently and collaboratively{" "}
         </p>
-
+        {/*  */}
         <div className="all-icons flex">
           <div className="icon icon-github">
-            <a className="arr" href="https://www.linkedin.com/feed/">
-              &rarr;
-            </a>
-          </div>
-          <div className="icon icon-linkedin">
             <a
               className="arr"
               href="https://github.com/Ahmed-K-Fouda?tab=repositories"
             >
+              &rarr;
+            </a>
+          </div>
+          <div className="icon icon-linkedin">
+            <a className="arr" href="https://www.linkedin.com/in/ahm3dfouda/">
               &rarr;
             </a>
           </div>
