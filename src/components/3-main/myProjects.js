@@ -79,13 +79,7 @@ export const myProjects = [
     link: "https://github.com/Ahmed-K-Fouda/e-commerce",
     netlify: "https://electronic-ecommerce.netlify.app",
   },
-  {
-    projectTitle: "React project",
-    prejectDescription: "Deploying soon.",
-    category: ["react"],
-    // imgPath: "./images/topico.PNG",
-    // link: "https://github.com/Ahmed-K-Fouda/e-commerce",
-  },
+
   {
     projectTitle: "JavaScript project",
     prejectDescription:
@@ -112,5 +106,41 @@ export const myProjects = [
     imgPath: "./images/univ.PNG",
     link: "https://github.com/Ahmed-K-Fouda/university-info-page",
     netlify: "https://university-info-page.netlify.app",
+  },
+  {
+    projectTitle: "React projects",
+    category: ["react"],
+    prejectDescription:
+      "Friend List and Bill Splitting App is a React-based application designed to manage friendships and split bills easily. The app allows users to add friends, select and delete friends, and handle bill splitting between friends with clear balance tracking.",
+    imgPath: "./images/eat-split.PNG",
+    link: "https://github.com/Ahmed-K-Fouda/eat-n-split",
+    netlify: "https://eat-nsplit.netlify.app",
+  },
+  {
+    projectTitle: "React projects",
+    category: ["react"],
+    prejectDescription:
+      "A React-based web application that allows users to search for movies, view detailed information, add movies to a watched list, and rate them. This project leverages the OMDb API for fetching movie data and incorporates custom hooks for efficient state management and local storage.",
+    imgPath: "./images/popcorn.PNG",
+    link: "https://github.com/Ahmed-K-Fouda/popcorn-movie",
+    netlify: "https://popcorn-movie-details.netlify.app",
+  },
+  {
+    projectTitle: "React projects",
+    category: ["react"],
+    prejectDescription:
+      "CryptoPlace is a comprehensive cryptocurrency marketplace where users can explore various cryptocurrencies, view real-time prices, market caps, and historical data through interactive charts.",
+    imgPath: "./images/crypto.PNG",
+    link: "https://github.com/Ahmed-K-Fouda/Crypto-Place",
+    netlify: "https://crypto-place-currency.netlify.app",
+  },
+  {
+    projectTitle: "React projects",
+    category: ["react"],
+    prejectDescription:
+      "This is a React-based quiz application that tests users' knowledge of React concepts. The application features multiple components and utilizes the useReducer hook for state management. Questions are fetched from a local server, and users can navigate through them, receive scores, and see their high scores.",
+    imgPath: "./images/quiez.PNG",
+    link: "https://github.com/Ahmed-K-Fouda/react-quiez",
+    netlify: "https://react-quiez-app.netlify.app",
   },
 ];
