@@ -129,6 +129,15 @@ export const myProjects = [
     projectTitle: "React projects",
     category: ["react"],
     prejectDescription:
+      "World Wise is a comprehensive web application that allows users to explore cities and countries. Users can add cities to their list, view details about the cities, and explore countries they've visited. The app utilizes React, React Router, and various hooks to manage state and handle side effects. ",
+    imgPath: "./images/worldwise.PNG",
+    link: "https://github.com/Ahmed-K-Fouda/world-wise",
+    netlify: "https://world-wise-explorer.netlify.app",
+  },
+  {
+    projectTitle: "React projects",
+    category: ["react"],
+    prejectDescription:
       "CryptoPlace is a comprehensive cryptocurrency marketplace where users can explore various cryptocurrencies, view real-time prices, market caps, and historical data through interactive charts.",
     imgPath: "./images/crypto.PNG",
     link: "https://github.com/Ahmed-K-Fouda/Crypto-Place",
