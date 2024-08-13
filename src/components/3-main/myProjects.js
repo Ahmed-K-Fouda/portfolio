@@ -147,6 +147,15 @@ export const myProjects = [
     projectTitle: "React projects",
     category: ["react"],
     prejectDescription:
+      "The Pizza Ordering App is a web application that allows users to effortlessly browse a menu of pizzas, customize their orders, and place them. With a user-friendly interface, the app offers features to view pizza details, select sizes, add extra toppings, and manage orders.",
+    imgPath: "./images/pizza.PNG",
+    link: "https://github.com/Ahmed-K-Fouda/pizza-ordering-app",
+    netlify: "https://order-pizza-app.netlify.app",
+  },
+  {
+    projectTitle: "React projects",
+    category: ["react"],
+    prejectDescription:
       "This is a React-based quiz application that tests users' knowledge of React concepts. The application features multiple components and utilizes the useReducer hook for state management. Questions are fetched from a local server, and users can navigate through them, receive scores, and see their high scores.",
     imgPath: "./images/quiez.PNG",
     link: "https://github.com/Ahmed-K-Fouda/react-quiez",
