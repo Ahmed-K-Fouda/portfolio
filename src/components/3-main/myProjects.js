@@ -152,6 +152,27 @@ export const myProjects = [
     link: "https://github.com/Ahmed-K-Fouda/pizza-ordering-app",
     netlify: "https://order-pizza-app.netlify.app",
   },
+
+  {
+    projectTitle: "React projects",
+    category: ["react"],
+    prejectDescription:
+      "This project is a comprehensive E-Learning Platform that includes features for user management, authentication, course management, job listings, and more.",
+    imgPath: "./images/SEF.PNG",
+    link: "https://github.com/Ahmed-K-Fouda/E-Learning-Platform-",
+    netlify: "https://learning-platform-sef.netlify.app/",
+  },
+
+  {
+    projectTitle: "React projects",
+    category: ["react"],
+    prejectDescription:
+      "The Pizza Ordering App is a web application that allows users to effortlessly browse a menu of pizzas, customize their orders, and place them. With a user-friendly interface, the app offers features to view pizza details, select sizes, add extra toppings, and manage orders.",
+    imgPath: "./images/E-Shop.PNG",
+    link: "https://github.com/Ahmed-K-Fouda/E-Shop",
+    netlify: "https://e-shop-commerce-prod.netlify.app/",
+  },
+
   {
     projectTitle: "React projects",
     category: ["react"],
