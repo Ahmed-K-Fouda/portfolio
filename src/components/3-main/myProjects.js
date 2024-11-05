@@ -167,7 +167,7 @@ export const myProjects = [
     projectTitle: "React projects",
     category: ["react"],
     prejectDescription:
-      "The Pizza Ordering App is a web application that allows users to effortlessly browse a menu of pizzas, customize their orders, and place them. With a user-friendly interface, the app offers features to view pizza details, select sizes, add extra toppings, and manage orders.",
+      "This is a fully functional e-commerce project developed using React, Redux, TailwindCSS, and Vite. The project includes essential e-commerce features like product listing, user authentication, a cart system, and order processing. This project is built with a modern tech stack that focuses on performance, modularity, and scalability.",
     imgPath: "./images/E-Shop.PNG",
     link: "https://github.com/Ahmed-K-Fouda/E-Shop",
     netlify: "https://e-shop-commerce-prod.netlify.app/",
